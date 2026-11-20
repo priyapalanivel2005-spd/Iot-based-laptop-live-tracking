@@ -1,1 +1,0 @@
-# Iot-based-laptop-live-tracking
